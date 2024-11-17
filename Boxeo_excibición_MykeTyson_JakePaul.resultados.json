@@ -1,0 +1,23 @@
+[{
+  "_id": "01",
+  "id_encuentro": "01",
+  "ganador": "Jake Paul",
+  "metodo_victoria": "Decisión Unánime",
+  "puntuacion": [
+    {
+      "juez": "Dan Rafael",
+      "puntos_tyson": 80,
+      "puntos_jake_paul": 72
+    },
+    {
+      "juez": "Lisa Giampa",
+      "puntos_tyson": 79,
+      "puntos_jake_paul": 73
+    },
+    {
+      "juez": "Max DeLuca",
+      "puntos_tyson": 79,
+      "puntos_jake_paul": 73
+    }
+  ]
+}]

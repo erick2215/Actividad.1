@@ -1,0 +1,27 @@
+[{
+  "_id": "01",
+  "nombre": "Dan Rafael",
+  "nacionalidad": "Estadounidense",
+  "experiencia": "20 años",
+  "eventos": [
+    "550"
+  ]
+},
+{
+  "_id": "02",
+  "nombre": "Lisa Giampa",
+  "nacionalidad": "Estadounidense",
+  "experiencia": "17 años",
+  "eventos": [
+    "570"
+  ]
+},
+{
+  "_id": "03",
+  "nombre": "Max DeLuca",
+  "nacionalidad": "Estadounidense",
+  "experiencia": "25 años",
+  "eventos": [
+    "1800"
+  ]
+}]

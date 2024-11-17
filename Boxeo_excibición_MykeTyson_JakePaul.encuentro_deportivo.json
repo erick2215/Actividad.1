@@ -1,0 +1,12 @@
+[{
+  "_id": "01",
+  "fecha": "2024-11-11",
+  "hora": "20:00",
+  "lugar": "AT&T Stadium de Arlington, Texas",
+  "tipo": "Exhibición",
+  "participantes": [
+    "Myke Tyson",
+    "Jake Paul"
+  ],
+  "resultado": "Jake Paul gano por desición unanime."
+}]

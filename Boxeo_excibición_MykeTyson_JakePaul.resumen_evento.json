@@ -1,0 +1,80 @@
+[{
+  "_id": "01",
+  "id_encuentro": "01",
+  "fecha": "2024-11-11",
+  "lugar": "AT&T Stadium de Arlington, Texas",
+  "tipo_evento": "Pelea de exhibición",
+  "participantes": [
+    {
+      "id_participante": "1",
+      "nombre": "Mike Tyson",
+      "nacionalidad": "Estados Unidos",
+      "edad": 58,
+      "peso": "Pesado",
+      "entrenador": {
+        "id_entrenador": "01",
+        "nombre": "Rafael Cordeiro"
+      }
+    },
+    {
+      "id_participante": "2",
+      "nombre": "Jake Paul",
+      "nacionalidad": "Estadounidense",
+      "edad": 27,
+      "peso": "Completo",
+      "entrenador": {
+        "id_entrenador": "02",
+        "nombre": "SugarHill Steward"
+      }
+    },
+    {
+      "id_participante": "2",
+      "nombre": "Aparicio Rendon",
+      "nacionalidad": "Reino Unido",
+      "edad": 35,
+      "peso": "Completo",
+      "entrenador": {
+        "id_entrenador": "02",
+        "nombre": "John Doe"
+      }
+    }
+  ],
+  "árbitro": {
+    "id_árbitro": "01",
+    "nombre": "Mark Calo-oy",
+    "país": "Estados Unidos"
+  },
+  "resultado": {
+    "ganador": "Jake Paul",
+    "método_victoria": "Decisión Unanime",
+    "round_victoria": 8
+  },
+  "detalles_evento": {
+    "eventos_destacados": [
+      {
+        "raund": 1,
+        "evento": "Jake Paul comenzó fuerte, utilizando su juventud y velocidad para mantener a Tyson a distancia con su jab."
+      },
+      {
+        "raund": 3,
+        "evento": "Tyson conectó un gancho de izquierda que hizo tambalear a Paul."
+      },
+      {
+        "raund": 5,
+        "evento": "Paul logró conectar una combinación de golpes que sorprendió a Tyson, llevándolo contra las cuerdas."
+      },
+      {
+        "raund": 8,
+        "evento": "En el último round, ambos boxeadores mostraron signos de cansancio."
+      }
+    ],
+    "estadísticas": {
+      "golpes_lanzados_tyson": 310,
+      "golpes_lanzados_Jake Paul": 350,
+      "golpes_conectados_tyson": 98,
+      "golpes_conectados_Jake Paul": 120,
+      "efectividad_tyson": "32%",
+      "efectividad_Jake Paul": "34%"
+    }
+  }
+}]

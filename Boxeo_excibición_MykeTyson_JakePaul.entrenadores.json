@@ -1,0 +1,16 @@
+[{
+  "_id": "01",
+  "nombre": "Rafael Cordeiro",
+  "equipo": "Mike Tyson",
+  "edad": 51,
+  "experiencia": 30,
+  "estrategias_clave": "Enfoque en la agresividad controlada, Condicionamiento físico y mental."
+},
+{
+  "_id": "02",
+  "nombre": "SugarHill Steward",
+  "equipo": "Jake Paul",
+  "edad": 51,
+  "experiencia": 20,
+  "estrategias_clave": "Ataques rápidos y movimientos defensivos."
+}]
